@@ -1,0 +1,8 @@
+C:\Windows\Temp\ws-vs2022\EmployeePayslip\EmployeePayslip\bin\Debug\EmployeePayslip.exe.config
+C:\Windows\Temp\ws-vs2022\EmployeePayslip\EmployeePayslip\bin\Debug\EmployeePayslip.exe
+C:\Windows\Temp\ws-vs2022\EmployeePayslip\EmployeePayslip\bin\Debug\EmployeePayslip.pdb
+C:\Windows\Temp\ws-vs2022\EmployeePayslip\EmployeePayslip\obj\Debug\EmployeePayslip.csproj.AssemblyReference.cache
+C:\Windows\Temp\ws-vs2022\EmployeePayslip\EmployeePayslip\obj\Debug\EmployeePayslip.csproj.SuggestedBindingRedirects.cache
+C:\Windows\Temp\ws-vs2022\EmployeePayslip\EmployeePayslip\obj\Debug\EmployeePayslip.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\ws-vs2022\EmployeePayslip\EmployeePayslip\obj\Debug\EmployeePayslip.exe
+C:\Windows\Temp\ws-vs2022\EmployeePayslip\EmployeePayslip\obj\Debug\EmployeePayslip.pdb
